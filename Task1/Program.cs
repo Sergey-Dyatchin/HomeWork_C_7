@@ -20,7 +20,7 @@ int RequestingNumber() // функция запроса у пользовате�
     while (true)
     {
         enterLine = Console.ReadLine()!; // NULL проверка в следующей строке
-        if (IsAllDigits(enterLine)&& enterLine!="")
+        if (IsAllDigits(enterLine) && enterLine!="")
         {
             number = Convert.ToInt32(enterLine);
             return number;
@@ -42,6 +42,8 @@ void ShowNumbers(int start, int end) //Функция печати чисел
     if (start != 0) Console.Write(start + " "); // Исключаем печать "0", так как он не является натуральным числом.
     ShowNumbers(start + 1, end);
 }
+
+Console.Clear(); // очистим консоль для красоты вывода.
 
 int firstNumber = RequestingNumber();
 int secondNumber = RequestingNumber();

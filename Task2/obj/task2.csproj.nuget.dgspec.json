@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\Task2\\task2.csproj": {}
+    "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\Task2\\task2.csproj": {
+    "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\Task2\\task2.csproj",
+        "projectUniqueName": "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\Task2\\task2.csproj",
+        "projectPath": "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\Task2\\obj\\",
+        "outputPath": "C:\\study\\Git_r\\HomeWork_C_7\\HomeWork_C_7\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config"
