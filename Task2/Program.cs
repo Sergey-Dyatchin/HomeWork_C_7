@@ -31,7 +31,7 @@ int RequestingNumber() // функция запроса у пользовате�
     }
 }
 
-int CalculationsAckermanFunction(int m, int n)
+int CalculationsAckermanFunction(int m, int n) // Рекурсивная функция вычисления функции Аккермана
 {
     if (m == 0)
     {
